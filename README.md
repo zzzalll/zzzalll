@@ -1,9 +1,9 @@
-# Hi! I'm Zalikha
+# Hi! I'm Zalikha 🐱
 FInal Year Computer Science (Multimedia Computing) student at Universiti Teknologi MARA (UiTM)
 
 I enjoy building interactive multimedia applications, game development, and trying out new things
 
-Currently working on my final year project and preparing for my internship while expanding my portfolio
+Currently working on my final year project and preparing for internship while expanding my portfolio
 
 ---
 
