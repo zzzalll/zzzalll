@@ -1,4 +1,4 @@
-# Hi, I'm Zalikha!
+# Hi! I'm Zalikha
 
 Currently a Computer Science (Multimedia Computing) student at Universiti Teknologi MARA (UiTM)
 
