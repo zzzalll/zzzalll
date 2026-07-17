@@ -16,14 +16,24 @@ Currently working on my final year project and preparing for internship while ex
 
 🎮 VR Gamelan Rhythm Learning Game
 
-Unity-based rhythm game introducing Malaysian Gamelan instruments.
+Unity-based rhythm game introducing Malaysian Gamelan instruments
 
-➡️ https://github.com/USERNAME/vr-gamelan-rhythm-game
+➡️ https://github.com/zzzalll/vr-gamelan-rhythm-game
 
 🤖 GLEAM AI Chatbot
 
+AI-powered jewellery chatbot using Dialogflow and Flask
+
+➡️ https://github.com/zzzalll/gleam-habib-jewels-chatbot
+
 🏃 Math Runner
+
+Educational Unity runner game
+
+➡️ https://github.com/zzzalll/math-runner
 
 🌿 EcoExplorer
 
+Interactive environmental education website
 
+➡️ https://github.com/zzzalll/ecoexplorer
