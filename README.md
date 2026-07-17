@@ -16,6 +16,10 @@ Currently working on my final year project and preparing for internship while ex
 
 🎮 VR Gamelan Rhythm Learning Game
 
+Unity-based rhythm game introducing Malaysian Gamelan instruments.
+
+➡️ https://github.com/USERNAME/vr-gamelan-rhythm-game
+
 🤖 GLEAM AI Chatbot
 
 🏃 Math Runner
