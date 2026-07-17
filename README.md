@@ -4,6 +4,8 @@ Currently a Computer Science (Multimedia Computing) student at Universiti Teknol
 
 I enjoy building interactive multimedia applications, game development, and trying out new things
 
+Currently working on my final year project and preparing for my internship while expanding my portfolio
+
 ---
 
 ## My Programming Languages
