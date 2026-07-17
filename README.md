@@ -7,7 +7,11 @@ I enjoy building interactive multimedia applications that combine education, cul
 ---
 
 ## My Programming Languages
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
 
 ---
 
