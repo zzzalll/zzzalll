@@ -1,8 +1,8 @@
 # Hi! I'm Zalikha
 
-Currently a Computer Science (Multimedia Computing) student at Universiti Teknologi MARA (UiTM).
+Currently a Computer Science (Multimedia Computing) student at Universiti Teknologi MARA (UiTM)
 
-I enjoy building interactive multimedia applications that combine education, culture, and technology
+I enjoy building interactive multimedia applications, game development, and trying out new things
 
 ---
 
@@ -21,12 +21,4 @@ I enjoy building interactive multimedia applications that combine education, cul
 
 🌿 EcoExplorer
 
----
 
-## Fun Facts
-
-🎵 Interested in traditional Malaysian culture
-
-🎮 Enjoy creating educational games
-
-💡 Like learning new technologies through personal projects
