@@ -1,32 +1,24 @@
-# Hi, I'm Nurul Zalikha 👋
+# Hi! I'm Zalikha
 
-🎓 Bachelor of Computer Science (Hons.) Multimedia Computing
-Universiti Teknologi MARA (UiTM)
+Currently a Computer Science (Multimedia Computing) student at Universiti Teknologi MARA (UiTM)
 
-I'm interested in game development, multimedia computing, and interactive application development. 
+I enjoy building interactive multimedia applications that combine education, culture, and technology
 
 ---
 
-## Technical Skills
+## Current Interests
 
-### Programming Languages
-- C#
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-
-### Development
-- Unity
-- Visual Studio
-- Android Studio
-- Visual Studio Code
-
-### Design
-- Blender
-- Adobe Photoshop
-- Adobe Premiere Pro
+- Unity Game Development
+- Rhythm Games
+- Educational Technology
+- Virtual Reality
+- UI/UX Design
+Unity
+C#
+HTML
+CSS
+JavaScript
+Python
 
 ---
 
@@ -34,33 +26,18 @@ I'm interested in game development, multimedia computing, and interactive applic
 
 🎮 VR Gamelan Rhythm Learning Game
 
-A Unity-based rhythm game introducing traditional Malaysian Gamelan instruments.
-
-🤖 Jewellery AI Chatbot
-
-An AI chatbot prototype using Dialogflow and Flask for a simulated jewellery e-commerce website.
+🤖 GLEAM AI Chatbot
 
 🏃 Math Runner
 
-An educational game designed to improve primary school mathematics learning.
-
 🌿 EcoExplorer
 
-An educational website promoting environmental awareness.
-
 ---
 
-## Currently Working On
+## Fun Facts
 
-- Improving my GitHub portfolio
-- Preparing for software and multimedia development internships
+🎵 Interested in traditional Malaysian culture
 
----
+🎮 Enjoy creating educational games
 
-## Contact
-
-📧 your.email@email.com
-
-💼 LinkedIn
-
-🌐 Portfolio
+💡 Like learning new technologies through personal projects
