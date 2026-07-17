@@ -26,6 +26,6 @@ AI-powered jewellery chatbot using Dialogflow and Flask
 
 Educational Unity runner game
 
-🌿 EcoExplorer
+🌿 [EcoExplorer](https://github.com/zzzalll/ecoexplorer)
 
-[Interactive environmental education website](https://github.com/zzzalll/ecoexplorer)
+Interactive environmental education website
