@@ -3,7 +3,7 @@
 🎓 Bachelor of Computer Science (Hons.) Multimedia Computing
 Universiti Teknologi MARA (UiTM)
 
-I'm interested in game development, multimedia computing, and interactive application development. I enjoy building educational games and AI-powered applications that combine technology with engaging user experiences.
+I'm interested in game development, multimedia computing, and interactive application development. 
 
 ---
 
@@ -16,7 +16,6 @@ I'm interested in game development, multimedia computing, and interactive applic
 - HTML
 - CSS
 - JavaScript
-- SQL
 
 ### Development
 - Unity
@@ -25,10 +24,8 @@ I'm interested in game development, multimedia computing, and interactive applic
 - Visual Studio Code
 
 ### Design
-- Figma
 - Blender
 - Adobe Photoshop
-- Adobe Illustrator
 - Adobe Premiere Pro
 
 ---
@@ -39,7 +36,7 @@ I'm interested in game development, multimedia computing, and interactive applic
 
 A Unity-based rhythm game introducing traditional Malaysian Gamelan instruments.
 
-🤖 GLEAM: Habib Jewels AI Chatbot
+🤖 Jewellery AI Chatbot
 
 An AI chatbot prototype using Dialogflow and Flask for a simulated jewellery e-commerce website.
 
