@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Nurul Zalikha 👋
 
-<!--
-**zzzalll/zzzalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Computer Science (Hons.) Multimedia Computing
+Universiti Teknologi MARA (UiTM)
 
-Here are some ideas to get you started:
+I'm interested in game development, multimedia computing, and interactive application development. I enjoy building educational games and AI-powered applications that combine technology with engaging user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+### Programming Languages
+- C#
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+### Development
+- Unity
+- Visual Studio
+- Android Studio
+- Visual Studio Code
+
+### Design
+- Figma
+- Blender
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+
+---
+
+## Featured Projects
+
+🎮 VR Gamelan Rhythm Learning Game
+
+A Unity-based rhythm game introducing traditional Malaysian Gamelan instruments.
+
+🤖 GLEAM: Habib Jewels AI Chatbot
+
+An AI chatbot prototype using Dialogflow and Flask for a simulated jewellery e-commerce website.
+
+🏃 Math Runner
+
+An educational game designed to improve primary school mathematics learning.
+
+🌿 EcoExplorer
+
+An educational website promoting environmental awareness.
+
+---
+
+## Currently Working On
+
+- Improving my GitHub portfolio
+- Preparing for software and multimedia development internships
+
+---
+
+## Contact
+
+📧 your.email@email.com
+
+💼 LinkedIn
+
+🌐 Portfolio
