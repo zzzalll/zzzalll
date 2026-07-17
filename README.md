@@ -1,28 +1,17 @@
 # Hi! I'm Zalikha
 
-Currently a Computer Science (Multimedia Computing) student at Universiti Teknologi MARA (UiTM)
+Currently a Computer Science (Multimedia Computing) student at Universiti Teknologi MARA (UiTM).
 
 I enjoy building interactive multimedia applications that combine education, culture, and technology
 
 ---
 
-## Current Interests
-
-- Unity Game Development
-- Rhythm Games
-- Educational Technology
-- Virtual Reality
-- UI/UX Design
-Unity
-C#
-HTML
-CSS
-JavaScript
-Python
+## My Programming Languages
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white
 
 ---
 
-## Featured Projects
+## My Featured Projects
 
 🎮 VR Gamelan Rhythm Learning Game
 
