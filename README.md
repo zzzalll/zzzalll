@@ -18,7 +18,7 @@ Currently working on my final year project and preparing for internship while ex
 
 Unity-based rhythm game introducing Malaysian Gamelan instruments
 
-🤖 [GLEAM AI Chatbot](https://github.com/zzzalll/gleam-habib-jewels-chatbot)
+🤖 [Jewellery website AI Chatbot](https://github.com/zzzalll/jewellery-site-chatbot)
 
 AI-powered jewellery chatbot using Dialogflow and Flask
 
